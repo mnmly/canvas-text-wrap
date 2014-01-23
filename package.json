@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bmcmahen/canvas-text-wrap.git"
+    "url": "git://github.com/mnmly/canvas-text-wrap.git"
   },
   "keywords": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bmcmahen/canvas-text-wrap/issues"
+    "url": "https://github.com/mnmly/canvas-text-wrap/issues"
   }
 }
